@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Noura Manassra — Full-Stack Engineer with AI" />
+<img src="./assets/header.svg" width="100%" alt="Noura Manassra — Full-Stack and AI Engineer, Flutter Developer" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=Building+complete+full-stack+experiences;Building+AI%2FML+solutions+with+human+impact;Turning+complex+problems+into+clean+software;Always+learning.+Always+building." alt="Typing animation" />
@@ -10,14 +10,14 @@
 
 ## About me
 
-I'm **Noura Manassra**, a Computer Engineering graduate from **Birzeit University, Palestine**, focused on **Full-Stack Engineering and Artificial Intelligence**.
+I'm **Noura Manassra**, a Computer Engineering graduate from **Birzeit University, Palestine**, focused on **Full-Stack Engineering, Artificial Intelligence, and Flutter mobile development**.
 
-I enjoy turning difficult, real-world problems into dependable software—whether that means building complete products across frontend and backend, designing APIs, working with databases and machine-learning pipelines, and connecting polished user experiences to reliable services.
+I enjoy turning difficult, real-world problems into dependable software—whether that means building complete products across frontend and backend, designing APIs, working with databases and machine-learning pipelines, and building polished web and Flutter mobile experiences backed by reliable services.
 
 - 🎓 Computer Engineering graduate — Birzeit University
-- 🧠 Interested in full-stack architecture, modern frontend development, APIs, databases, AI/ML, NLP, and security
+- 🧠 Interested in full-stack architecture, Flutter mobile development, APIs, databases, AI/ML, NLP, and security
 - 🌱 Preparing for graduate study in Artificial Intelligence
-- 🤝 Open to Full-Stack, AI/ML, and software-engineering opportunities
+- 🤝 Open to Full-Stack, Flutter/Mobile, AI/ML, and software-engineering opportunities
 
 ## Engineering toolbox
 
@@ -43,6 +43,19 @@ I enjoy turning difficult, real-world problems into dependable software—whethe
 ## Selected work
 
 <table>
+<tr>
+<td colspan="2" valign="top">
+
+### 🤖 [AMAN — Graduation Project](./projects/AMAN.md)
+
+My capstone project: a trauma-informed, Arabic audio-first digital support system designed for children living under continuous exposure in Gaza. I contributed across the full product stack, combining a **Flutter mobile experience**, **Python backend services**, API integration, AI-supported interaction, and safety-centered UX.
+
+**Focus:** Flutter · Dart · Python · AI · APIs · Arabic audio-first UX · Responsible technology
+
+[Explore the project showcase →](./projects/AMAN.md)
+
+</td>
+</tr>
 <tr>
 <td colspan="2" valign="top">
 
@@ -88,17 +101,6 @@ Networking suite covering TCP/UDP clients and servers, multiple clients, HTTP se
 </td>
 <td width="50%" valign="top">
 
-### 🤖 AMAN — Graduation Project
-
-Trauma-informed, Arabic audio-first digital support system for children living under continuous exposure in Gaza. Built as a private full-stack project with Flutter, Python backend services, safety-oriented interaction design, and end-to-end verification.
-
-**Focus:** Flutter · Python · APIs · Arabic UX · Responsible technology
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### 📊 [Machine Learning](https://github.com/NManassra/Machine-Learning)
 
 Machine-learning coursework centered on preprocessing, exploratory analysis, data integration, experimentation, and evaluation.
@@ -106,7 +108,9 @@ Machine-learning coursework centered on preprocessing, exploratory analysis, dat
 **Focus:** Python · ML · Data preparation · Model evaluation
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 ### 🧩 [Algorithms Portfolio](https://github.com/NManassra/neetcode-submissions)
 
