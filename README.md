@@ -15,7 +15,6 @@ I'm **Noura Manassra**, a Computer Engineering graduate from **Birzeit Universit
 I enjoy turning difficult, real-world problems into dependable software—whether that means building complete products across frontend and backend, designing APIs, working with databases and machine-learning pipelines, and connecting polished user experiences to reliable services.
 
 - 🎓 Computer Engineering graduate — Birzeit University
-- 🏆 Sole recipient of **three Excellence Awards** in the university's 51st graduating cohort
 - 🧠 Interested in backend architecture, AI/ML, NLP, databases, APIs, and security
 - 🌱 Preparing for graduate study in Artificial Intelligence
 - 🤝 Open to Full-Stack, AI/ML, and software-engineering opportunities
