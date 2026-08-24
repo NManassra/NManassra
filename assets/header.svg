@@ -1,0 +1,33 @@
+<svg width="900" height="240" viewBox="0 0 900 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="900" y2="240" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111F"/>
+      <stop offset="0.52" stop-color="#11143B"/>
+      <stop offset="1" stop-color="#071B28"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="235" y1="0" x2="680" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE"/>
+      <stop offset="0.5" stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#34D399"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="900" height="240" rx="24" fill="url(#bg)"/>
+  <g opacity=".22">
+    <circle cx="90" cy="46" r="2" fill="#22D3EE"><animate attributeName="opacity" values=".2;1;.2" dur="2.8s" repeatCount="indefinite"/></circle>
+    <circle cx="810" cy="65" r="3" fill="#A78BFA"><animate attributeName="opacity" values="1;.2;1" dur="3.4s" repeatCount="indefinite"/></circle>
+    <circle cx="760" cy="195" r="2" fill="#34D399"><animate attributeName="opacity" values=".2;1;.2" dur="2.2s" repeatCount="indefinite"/></circle>
+    <path d="M0 190 C190 120 310 255 500 180 S770 120 900 175" stroke="#22D3EE" stroke-width="1">
+      <animate attributeName="stroke-dasharray" values="0 900;120 780;0 900" dur="7s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g font-family="'Segoe UI',Arial,sans-serif" text-anchor="middle">
+    <text x="450" y="75" fill="#DCEBFF" font-size="20" letter-spacing="5">HELLO, I'M</text>
+    <text x="450" y="130" fill="url(#accent)" font-size="48" font-weight="700" filter="url(#glow)">NOURA MANASSRA</text>
+    <text x="450" y="176" fill="#AFC6DE" font-size="21">Backend Engineer  •  AI/ML Builder  •  Computer Engineer</text>
+    <text x="450" y="209" fill="#6EE7F9" font-size="14" letter-spacing="2">BUILDING RELIABLE SYSTEMS WITH HUMAN IMPACT</text>
+  </g>
+  <rect x="70" y="28" width="760" height="184" rx="18" stroke="url(#accent)" stroke-opacity=".36">
+    <animate attributeName="stroke-opacity" values=".2;.65;.2" dur="4s" repeatCount="indefinite"/>
+  </rect>
+</svg>
