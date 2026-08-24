@@ -1,5 +1,7 @@
 name: Generate contribution snake
 
+# Keeps the profile animation fresh.
+
 on:
   push:
     branches: [main]
