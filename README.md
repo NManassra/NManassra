@@ -1,24 +1,24 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Noura Manassra — Backend Engineer and AI/ML Builder" />
+<img src="./assets/header.svg" width="100%" alt="Noura Manassra — Full-Stack Engineer with AI" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=Designing+reliable+backend+systems;Building+AI%2FML+solutions+with+human+impact;Turning+complex+problems+into+clean+software;Always+learning.+Always+building." alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=Building+complete+full-stack+experiences;Building+AI%2FML+solutions+with+human+impact;Turning+complex+problems+into+clean+software;Always+learning.+Always+building." alt="Typing animation" />
 </a>
 
 </div>
 
 ## About me
 
-I'm **Noura Manassra**, a Computer Engineering graduate from **Birzeit University, Palestine**, focused on **Backend Engineering and Artificial Intelligence**.
+I'm **Noura Manassra**, a Computer Engineering graduate from **Birzeit University, Palestine**, focused on **Full-Stack Engineering and Artificial Intelligence**.
 
-I enjoy turning difficult, real-world problems into dependable software—whether that means designing APIs, working with data and machine-learning pipelines, building secure client–server systems, or connecting mobile experiences to a Python backend.
+I enjoy turning difficult, real-world problems into dependable software—whether that means building complete products across frontend and backend, designing APIs, working with databases and machine-learning pipelines, and connecting polished user experiences to reliable services.
 
 - 🎓 Computer Engineering graduate — Birzeit University
 - 🏆 Sole recipient of **three Excellence Awards** in the university's 51st graduating cohort
 - 🧠 Interested in backend architecture, AI/ML, NLP, databases, APIs, and security
 - 🌱 Preparing for graduate study in Artificial Intelligence
-- 🤝 Open to Backend, AI/ML, and software-engineering opportunities
+- 🤝 Open to Full-Stack, AI/ML, and software-engineering opportunities
 
 ## Engineering toolbox
 
@@ -114,6 +114,6 @@ My Computer Engineering background also includes operating systems, concurrency,
 
 <br/>
 
-`Backend + AI` · `Systems thinking` · `Technology with purpose`
+`Full-Stack + AI` · `Systems thinking` · `Technology with purpose`
 
 </div>
