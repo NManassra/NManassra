@@ -24,7 +24,7 @@
   <g font-family="'Segoe UI',Arial,sans-serif" text-anchor="middle">
     <text x="450" y="75" fill="#DCEBFF" font-size="20" letter-spacing="5">HELLO, I'M</text>
     <text x="450" y="130" fill="url(#accent)" font-size="48" font-weight="700" filter="url(#glow)">NOURA MANASSRA</text>
-    <text x="450" y="176" fill="#AFC6DE" font-size="21">Backend Engineer  •  AI/ML Builder  •  Computer Engineer</text>
+    <text x="450" y="176" fill="#AFC6DE" font-size="21">Full-Stack Engineer  •  AI/ML Builder  •  Computer Engineer</text>
     <text x="450" y="209" fill="#6EE7F9" font-size="14" letter-spacing="2">BUILDING RELIABLE SYSTEMS WITH HUMAN IMPACT</text>
   </g>
   <rect x="70" y="28" width="760" height="184" rx="18" stroke="url(#accent)" stroke-opacity=".36">
