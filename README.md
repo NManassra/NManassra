@@ -15,7 +15,7 @@ I'm **Noura Manassra**, a Computer Engineering graduate from **Birzeit Universit
 I enjoy turning difficult, real-world problems into dependable software—whether that means building complete products across frontend and backend, designing APIs, working with databases and machine-learning pipelines, and connecting polished user experiences to reliable services.
 
 - 🎓 Computer Engineering graduate — Birzeit University
-- 🧠 Interested in backend architecture, AI/ML, NLP, databases, APIs, and security
+- 🧠 Interested in full-stack architecture, modern frontend development, APIs, databases, AI/ML, NLP, and security
 - 🌱 Preparing for graduate study in Artificial Intelligence
 - 🤝 Open to Full-Stack, AI/ML, and software-engineering opportunities
 
@@ -23,6 +23,10 @@ I enjoy turning difficult, real-world problems into dependable software—whethe
 
 <div align="center">
 
+![Angular](https://img.shields.io/badge/Angular-07111F?style=for-the-badge&logo=angular&logoColor=EF4444)
+![TypeScript](https://img.shields.io/badge/TypeScript-07111F?style=for-the-badge&logo=typescript&logoColor=22D3EE)
+![HTML5](https://img.shields.io/badge/HTML5-07111F?style=for-the-badge&logo=html5&logoColor=F97316)
+![CSS3](https://img.shields.io/badge/CSS3-07111F?style=for-the-badge&logo=css3&logoColor=38BDF8)
 ![Python](https://img.shields.io/badge/Python-07111F?style=for-the-badge&logo=python&logoColor=22D3EE)
 ![Java](https://img.shields.io/badge/Java-07111F?style=for-the-badge&logo=openjdk&logoColor=A78BFA)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-07111F?style=for-the-badge&logo=springboot&logoColor=34D399)
@@ -39,6 +43,19 @@ I enjoy turning difficult, real-world problems into dependable software—whethe
 ## Selected work
 
 <table>
+<tr>
+<td colspan="2" valign="top">
+
+### ⌚ La Royale — Full-Stack Watch E-Commerce Platform
+
+A collaborative production-style commerce system with an **Angular 20** frontend and **Spring Boot** backend. My work includes role-based experiences, JWT authentication integration, product and image flows, wishlist and cart behavior, orders, admin management, and six reporting dashboards.
+
+**Frontend:** [Angular repository](https://github.com/eyashanoon/watch-ecommerce-frontend) · **Backend:** [Spring Boot repository](https://github.com/eyashanoon/watch-ecommerce)
+
+**Focus:** Angular · TypeScript · Spring Boot · REST APIs · JWT · SQL · Reporting
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
